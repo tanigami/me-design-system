@@ -3,6 +3,10 @@
     "value": 1,
     "type": "sizing"
   },
+  "md": {
+    "value": 2,
+    "type": "sizing"
+  },
   "tokenSetOrder": {
     "0": {
       "value": "global",
