@@ -1,5 +1,10 @@
 {
-  "global": {},
+  "global": {
+    "sm": {
+      "value": "1",
+      "type": "sizing"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
