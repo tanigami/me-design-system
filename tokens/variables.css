@@ -5,7 +5,9 @@
 :root {
   --figma-global-sm: 1;
   --figma-global-md: 2;
+  --figma-global-bodytypography: [object Object];
   --figma-sm: 1;
   --figma-md: 2;
+  --figma-bodytypography: [object Object];
   --figma-token-set-order-0: global;
 }
