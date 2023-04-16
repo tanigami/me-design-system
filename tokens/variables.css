@@ -6,8 +6,14 @@
   --figma-global-sm: 1;
   --figma-global-md: 2;
   --figma-global-bodytypography: [object Object];
+  --figma-global-red: #8e2e2e;
+  --figma-global-color-black: #000;
+  --figma-global-color-white: #fff;
   --figma-sm: 1;
   --figma-md: 2;
   --figma-bodytypography: [object Object];
+  --figma-red: #8e2e2e;
+  --figma-color-black: #000;
+  --figma-color-white: #ffffff;
   --figma-token-set-order-0: global;
 }

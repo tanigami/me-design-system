@@ -15,6 +15,20 @@
     },
     "type": "typography"
   },
+  "red": {
+    "value": "#8e2e2e",
+    "type": "color"
+  },
+  "color-black": {
+    "value": "#000",
+    "type": "color"
+  },
+  "color": {
+    "white": {
+      "value": "#fff",
+      "type": "color"
+    }
+  },
   "tokenSetOrder": {
     "0": {
       "value": "global",
