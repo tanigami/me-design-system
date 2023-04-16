@@ -7,6 +7,14 @@
     "md": {
       "value": "2",
       "type": "sizing"
+    },
+    "BODYTYPOGRAPHY": {
+      "value": {
+        "lineHeight": "16",
+        "fontSize": "24",
+        "paragraphSpacing": "36"
+      },
+      "type": "typography"
     }
   },
   "$themes": [],
