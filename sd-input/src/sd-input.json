@@ -29,6 +29,21 @@
       "type": "color"
     }
   },
+  "spacing-sm": {
+    "value": 10,
+    "type": "spacing"
+  },
+  "box-shadow-md": {
+    "value": {
+      "x": "5px",
+      "y": "10px",
+      "blur": "10px",
+      "spread": "10px",
+      "color": "#000000",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
   "tokenSetOrder": {
     "0": {
       "value": "global",
