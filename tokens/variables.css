@@ -9,11 +9,15 @@
   --figma-global-red: #8e2e2e;
   --figma-global-color-black: #000;
   --figma-global-color-white: #fff;
+  --figma-global-spacing-sm: 10;
+  --figma-global-box-shadow-md: [object Object];
   --figma-sm: 1;
   --figma-md: 2;
   --figma-bodytypography: [object Object];
   --figma-red: #8e2e2e;
   --figma-color-black: #000;
   --figma-color-white: #ffffff;
+  --figma-spacing-sm: 10;
+  --figma-box-shadow-md: [object Object];
   --figma-token-set-order-0: global;
 }
