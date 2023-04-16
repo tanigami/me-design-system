@@ -6,8 +6,10 @@
   --figma-global-sm: 1;
   --figma-global-md: 2;
   --figma-global-bodytypography: [object Object];
+  --figma-global-red: #8e2e2e;
   --figma-sm: 1;
   --figma-md: 2;
   --figma-bodytypography: [object Object];
+  --figma-red: #8e2e2e;
   --figma-token-set-order-0: global;
 }
