@@ -3,6 +3,22 @@
     "sm": {
       "value": "1",
       "type": "sizing"
+    },
+    "md": {
+      "value": "2",
+      "type": "sizing"
+    },
+    "BODYTYPOGRAPHY": {
+      "value": {
+        "lineHeight": "16",
+        "fontSize": "24",
+        "paragraphSpacing": "36"
+      },
+      "type": "typography"
+    },
+    "red": {
+      "value": "#8e2e2e",
+      "type": "color"
     }
   },
   "$themes": [],
