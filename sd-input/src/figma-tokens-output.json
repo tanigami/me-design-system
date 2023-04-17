@@ -9,7 +9,16 @@
       "type": "lineHeights"
     }
   },
-  "article": {},
+  "article": {
+    "body-font-size": {
+      "value": "{font-size-m}",
+      "type": "fontSizes"
+    },
+    "body-line-height": {
+      "value": "{line-height-m}",
+      "type": "lineHeights"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
