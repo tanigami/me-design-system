@@ -1,55 +1,20 @@
 {
   "global": {
-    "sm": {
-      "value": "1",
-      "type": "sizing"
+    "font-size-m": {
+      "value": "18px",
+      "type": "fontSizes"
     },
-    "md": {
-      "value": "2",
-      "type": "sizing"
-    },
-    "BODYTYPOGRAPHY": {
-      "value": {
-        "lineHeight": "16",
-        "fontSize": "24",
-        "paragraphSpacing": "36"
-      },
-      "type": "typography"
-    },
-    "red": {
-      "value": "#8e2e2e",
-      "type": "color"
-    },
-    "color-black": {
-      "value": "#000",
-      "type": "color"
-    },
-    "color": {
-      "white": {
-        "value": "#fff",
-        "type": "color"
-      }
-    },
-    "spacing-sm": {
-      "value": "10",
-      "type": "spacing"
-    },
-    "box-shadow-md": {
-      "value": {
-        "x": "5px",
-        "y": "10px",
-        "blur": "10px",
-        "spread": "10px",
-        "color": "#000000",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
+    "line-height-m": {
+      "value": "1.5",
+      "type": "lineHeights"
     }
   },
+  "article": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "article"
     ]
   }
 }
