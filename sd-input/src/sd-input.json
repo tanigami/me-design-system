@@ -1,4 +1,12 @@
 {
+  "body-font-size": {
+    "value": "{font-size-m}",
+    "type": "fontSizes"
+  },
+  "body-line-height": {
+    "value": "{line-height-m}",
+    "type": "lineHeights"
+  },
   "font-size-m": {
     "value": "18px",
     "type": "fontSizes"

@@ -5,6 +5,10 @@
 :root {
   --figma-global-font-size-m: 18px;
   --figma-global-line-height-m: 1.5;
+  --figma-article-body-font-size: 18px;
+  --figma-article-body-line-height: 1.5;
+  --figma-body-font-size: 18px;
+  --figma-body-line-height: 1.5;
   --figma-font-size-m: 18px;
   --figma-line-height-m: 1.5;
   --figma-token-set-order-0: global;
