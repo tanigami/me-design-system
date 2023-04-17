@@ -7,6 +7,14 @@
     "line-height-m": {
       "value": "1.5",
       "type": "lineHeights"
+    },
+    "color-red": {
+      "value": "#f03",
+      "type": "color"
+    },
+    "color-blue": {
+      "value": "#00cfff",
+      "type": "color"
     }
   },
   "article": {
@@ -17,6 +25,10 @@
     "body-line-height": {
       "value": "{line-height-m}",
       "type": "lineHeights"
+    },
+    "body-color": {
+      "value": "{color-red}",
+      "type": "color"
     }
   },
   "$themes": [],
