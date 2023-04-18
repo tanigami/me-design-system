@@ -57,7 +57,7 @@
           }
         },
         "color": {
-          "value": "#f03}",
+          "value": "#00cfff",
           "type": "color"
         }
       },
@@ -65,6 +65,22 @@
         "font-size": {
           "value": "29.124000000000002px",
           "type": "fontSizes"
+        }
+      },
+      "heading": {
+        "typography": {
+          "fontSize": {
+            "value": "29.124000000000002px",
+            "type": "fontSizes"
+          },
+          "lineHeight": {
+            "value": "{line-height.m}",
+            "type": "lineHeight"
+          },
+          "paragraphSpacing": {
+            "value": "29.124000000000002px",
+            "type": "paragraphSpacing"
+          }
         }
       }
     }
