@@ -34,7 +34,7 @@
     }
   },
   "article": {
-    "body-font-size": {
+    "article-body-font-size": {
       "value": "{font-size-m}",
       "type": "fontSizes"
     },
@@ -49,9 +49,9 @@
     "body-typography": {
       "value": {
         "lineHeight": "{article-body-line-height}",
-        "fontSize": "{body-font-size}",
+        "fontSize": "{article-body-font-size}",
         "letterSpacing": "0",
-        "paragraphSpacing": "{body-font-size} * {article-body-line-height}"
+        "paragraphSpacing": "{article-body-font-size} * {article-body-line-height}"
       },
       "type": "typography"
     }
