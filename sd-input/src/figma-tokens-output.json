@@ -15,6 +15,18 @@
     "color-blue": {
       "value": "#00cfff",
       "type": "color"
+    },
+    "font-size-l": {
+      "value": "{font-size-m} * {font-size-ratio}",
+      "type": "fontSizes"
+    },
+    "font-size-ratio": {
+      "value": "1.618",
+      "type": "other"
+    },
+    "font-size-xl": {
+      "value": "{font-size-m} * {font-size-ratio} ^ 2",
+      "type": "fontSizes"
     }
   },
   "article": {
