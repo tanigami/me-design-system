@@ -55,6 +55,10 @@
             "value": 3,
             "type": "paragraphSpacing"
           }
+        },
+        "color": {
+          "value": "#f03}",
+          "type": "color"
         }
       },
       "heading1": {
