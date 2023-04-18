@@ -18,6 +18,7 @@
     "@linaria/core": "*",
     "@linaria/react": "*",
     "@linaria/babel-preset": "*",
-    "@linaria/vite": "*"
+    "@linaria/vite": "*",
+    "vite": "*"
   }
 }
