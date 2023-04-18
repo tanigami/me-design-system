@@ -1,6 +1,5 @@
 import React from 'react';
 import '../tokens/variables.css';
-import './style.css';
 import data from '../sd-input/src/sd-input.json';
 
 const paragraph = data.article.body.paragraph;
