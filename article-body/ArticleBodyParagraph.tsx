@@ -3,16 +3,18 @@ import React from 'react';
 import '../tokens/variables.css';
 import './style.css';
 
-const style = css`
-  text-transform: uppercase;
-  font-family: ${fonts.heading};
-  font-size: ${modularScale(2)};
+import data from '../sd-input/src/out.json';
 
-  ${hiDPI(1.5)} {
-    font-size: ${modularScale(2.5)};
-  }
-`;
+const typography = data['body-typography'].value;
+
+// const color = data
+
+const style = {
+  color: data['body-color'].value,
+  fontSize: typography.fontSize,
+  lineHeight: typography.lineHeight,
+};
 
 export default ({ children }) => {
-  return <p className="article-body-paragraph">{children}</p>;
+  return <p style={style}>{children}</p>;
 };
