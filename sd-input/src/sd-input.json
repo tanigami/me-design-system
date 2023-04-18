@@ -45,6 +45,22 @@
     "value": "#00cfff",
     "type": "color"
   },
+  "font-size-l": {
+    "value": "29.124000000000002px",
+    "type": "fontSizes"
+  },
+  "font-size-ratio": {
+    "value": 1.618,
+    "type": "other"
+  },
+  "font-size-xl": {
+    "value": "47.12263200000001px",
+    "type": "fontSizes"
+  },
+  "font-size-s": {
+    "value": "11.124845488257106px",
+    "type": "fontSizes"
+  },
   "tokenSetOrder": {
     "0": {
       "value": "global",
