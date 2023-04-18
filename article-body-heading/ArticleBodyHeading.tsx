@@ -5,8 +5,8 @@ import data from '../sd-input/src/sd-input.json';
 const heading = data.article.body.heading;
 // console.log(typography);
 const style = {
-  fontSize: heading.fontSize.value,
-  lineHeight: heading.lineHeight.value,
+  fontSize: heading.typography.fontSize.value,
+  lineHeight: heading.typography.lineHeight.value,
 };
 
 export default ({ children }) => {
