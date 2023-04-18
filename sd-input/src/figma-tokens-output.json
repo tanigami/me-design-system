@@ -31,36 +31,37 @@
     "font-size-s": {
       "value": "{font-size-m} / {font-size-ratio}",
       "type": "fontSizes"
-    }
-  },
-  "article": {
-    "body-font-size": {
-      "value": "{font-size-m}",
-      "type": "fontSizes"
     },
-    "body-line-height": {
-      "value": "{line-height-m}",
-      "type": "lineHeights"
-    },
-    "body-color": {
-      "value": "{color-red}",
-      "type": "color"
-    },
-    "body-typography": {
-      "value": {
-        "lineHeight": "{body-line-height}",
-        "fontSize": "{body-font-size}",
-        "letterSpacing": "0",
-        "paragraphSpacing": "{body-font-size} * {body-line-height}"
-      },
-      "type": "typography"
+    "article": {
+      "body": {
+        "paragraph": {
+          "font-size": {
+            "value": "{font-size-m}",
+            "type": "fontSizes"
+          },
+          "typography": {
+            "value": {
+              "lineHeight": "{line-height-m}",
+              "fontSize": "{font-size-m}",
+              "letterSpacing": "0",
+              "paragraphSpacing": "{line-height-m} * 2"
+            },
+            "type": "typography"
+          }
+        },
+        "heading1": {
+          "font-size": {
+            "value": "{font-size-l}",
+            "type": "fontSizes"
+          }
+        }
+      }
     }
   },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global",
-      "article"
+      "global"
     ]
   }
 }

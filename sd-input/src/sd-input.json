@@ -1,34 +1,4 @@
 {
-  "body-font-size": {
-    "value": "18px",
-    "type": "fontSizes"
-  },
-  "body-line-height": {
-    "value": 1.5,
-    "type": "lineHeights"
-  },
-  "body-color": {
-    "value": "#f03",
-    "type": "color"
-  },
-  "body-typography": {
-    "lineHeight": {
-      "value": 1.5,
-      "type": "lineHeight"
-    },
-    "fontSize": {
-      "value": "18px",
-      "type": "fontSizes"
-    },
-    "letterSpacing": {
-      "value": 0,
-      "type": "letterSpacing"
-    },
-    "paragraphSpacing": {
-      "value": "27px",
-      "type": "paragraphSpacing"
-    }
-  },
   "font-size-m": {
     "value": "18px",
     "type": "fontSizes"
@@ -61,13 +31,43 @@
     "value": "11.124845488257106px",
     "type": "fontSizes"
   },
+  "article": {
+    "body": {
+      "paragraph": {
+        "font-size": {
+          "value": "18px",
+          "type": "fontSizes"
+        },
+        "typography": {
+          "lineHeight": {
+            "value": 1.5,
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": "18px",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": 3,
+            "type": "paragraphSpacing"
+          }
+        }
+      },
+      "heading1": {
+        "font-size": {
+          "value": "29.124000000000002px",
+          "type": "fontSizes"
+        }
+      }
+    }
+  },
   "tokenSetOrder": {
     "0": {
       "value": "global",
-      "type": "other"
-    },
-    "1": {
-      "value": "article",
       "type": "other"
     }
   }
