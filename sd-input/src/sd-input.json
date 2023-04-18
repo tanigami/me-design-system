@@ -77,6 +77,24 @@
         "font-size": {
           "value": "18px",
           "type": "fontSizes"
+        },
+        "typography": {
+          "lineHeight": {
+            "value": 1.5,
+            "type": "lineHeight"
+          },
+          "fontSize": {
+            "value": "18px",
+            "type": "fontSizes"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "letterSpacing"
+          },
+          "paragraphSpacing": {
+            "value": 3,
+            "type": "paragraphSpacing"
+          }
         }
       },
       "heading1": {
