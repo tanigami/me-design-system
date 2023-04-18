@@ -58,44 +58,10 @@
       }
     }
   },
-  "article": {
-    "body-font-size": {
-      "value": "{font-size-m}",
-      "type": "fontSizes"
-    },
-    "body-line-height": {
-      "value": "{line-height-m}",
-      "type": "lineHeights"
-    },
-    "body-color": {
-      "value": "{color-red}",
-      "type": "color"
-    },
-    "body": {
-      "paragraph": {
-        "value": {
-          "lineHeight": "{body-line-height}",
-          "fontSize": "{body-font-size}",
-          "letterSpacing": "0",
-          "paragraphSpacing": "{body-font-size} * {body-line-height}"
-        },
-        "type": "typography"
-      },
-      "heading": {
-        "typography": {
-          "value": {
-            "lineHeight": "a"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global",
-      "article"
+      "global"
     ]
   }
 }
