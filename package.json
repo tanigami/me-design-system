@@ -13,12 +13,13 @@
     "lit": "^2.2.2"
   },
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "@linaria/babel-preset": "*",
     "@linaria/core": "*",
     "@linaria/react": "*",
-    "@linaria/babel-preset": "*",
     "@linaria/vite": "*",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "token-transformer": "^0.0.32",
     "vite": "*"
   }
 }
