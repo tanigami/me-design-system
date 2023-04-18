@@ -1,4 +1,3 @@
-import { css } from '@linaria/core';
 import React from 'react';
 import '../tokens/variables.css';
 import './style.css';
