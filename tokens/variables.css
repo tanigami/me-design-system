@@ -10,9 +10,11 @@
   --figma-article-body-font-size: 18px;
   --figma-article-body-line-height: 1.5;
   --figma-article-body-color: #f03;
+  --figma-article-body: [object Object];
   --figma-body-font-size: 18px;
   --figma-body-line-height: 1.5;
   --figma-body-color: #f03;
+  --figma-body: [object Object];
   --figma-font-size-m: 18px;
   --figma-line-height-m: 1.5;
   --figma-color-red: #f03;
