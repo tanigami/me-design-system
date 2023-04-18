@@ -11,10 +11,12 @@
   --teps-article-body-line-height: 1.5;
   --teps-article-body-color: #f03;
   --teps-article-body-typography: [object Object];
+  --teps-article-body-typography-copy: [object Object];
   --teps-body-font-size: 18px;
   --teps-body-line-height: 1.5;
   --teps-body-color: #f03;
   --teps-body-typography: [object Object];
+  --teps-body-typography-copy: [object Object];
   --teps-font-size-m: 18px;
   --teps-line-height-m: 1.5;
   --teps-color-red: #f03;
