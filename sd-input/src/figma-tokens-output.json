@@ -34,11 +34,11 @@
     }
   },
   "article": {
-    "article-body-font-size": {
+    "body-font-size": {
       "value": "{font-size-m}",
       "type": "fontSizes"
     },
-    "article-body-line-height": {
+    "body-line-height": {
       "value": "{line-height-m}",
       "type": "lineHeights"
     },
@@ -48,10 +48,10 @@
     },
     "body-typography": {
       "value": {
-        "lineHeight": "{article-body-line-height}",
-        "fontSize": "{article-body-font-size}",
+        "lineHeight": "{body-line-height}",
+        "fontSize": "{body-font-size}",
         "letterSpacing": "0",
-        "paragraphSpacing": "{article-body-font-size} * {article-body-line-height}"
+        "paragraphSpacing": "{body-font-size} * {body-line-height}"
       },
       "type": "typography"
     }
