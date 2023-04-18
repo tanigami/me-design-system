@@ -32,7 +32,8 @@
     },
     "body": {
       "value": {
-        "lineHeight": "{body.font-size}"
+        "lineHeight": "{body.line-height}",
+        "fontSize": "{body.font-size}"
       },
       "type": "typography"
     }
