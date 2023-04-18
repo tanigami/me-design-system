@@ -63,7 +63,7 @@
           "typography": {
             "value": {
               "fontSize": "{font-size-l}",
-              "lineHeight": "{line-height.m}",
+              "lineHeight": "{line-height-m}",
               "paragraphSpacing": "{font-size-l}"
             },
             "type": "typography"
