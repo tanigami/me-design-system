@@ -1,9 +1,9 @@
 {
-  "article-body-font-size": {
+  "body-font-size": {
     "value": "18px",
     "type": "fontSizes"
   },
-  "article-body-line-height": {
+  "body-line-height": {
     "value": 1.5,
     "type": "lineHeights"
   },
