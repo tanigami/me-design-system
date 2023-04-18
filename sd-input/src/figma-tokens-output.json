@@ -38,6 +38,15 @@
         "paragraphSpacing": "{body-line-height} * 2"
       },
       "type": "typography"
+    },
+    "body-typography-copy": {
+      "value": {
+        "lineHeight": "{body-line-height}",
+        "fontSize": "{body-font-size}",
+        "letterSpacing": "",
+        "paragraphSpacing": "{body-font-size} * {body-line-height} * 2"
+      },
+      "type": "typography"
     }
   },
   "$themes": [],
