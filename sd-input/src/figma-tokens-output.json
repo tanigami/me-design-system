@@ -34,7 +34,7 @@
       "value": {
         "lineHeight": "{body-line-height}",
         "fontSize": "{body-font-size}",
-        "letterSpacing": "",
+        "letterSpacing": "0",
         "paragraphSpacing": "{body-font-size} * {body-line-height}"
       },
       "type": "typography"
