@@ -4,10 +4,9 @@ import ArticleBodyHeading from './ArticleBodyHeading';
 
 export const story1 = () => (
   <>
-    <ArticleBodyHeading>
-      Lorem Ipsum is simply dummy text 
+    <ArticleBodyHeading level="4">
+      Lorem Ipsum is simply dummy text
     </ArticleBodyHeading>
-    
   </>
 );
 

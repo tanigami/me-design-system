@@ -7,10 +7,15 @@
   --teps-global-line-height-m: 1.5;
   --teps-global-color-red: #f03;
   --teps-global-color-blue: #00cfff;
-  --teps-article-body-font-size: 18px;
-  --teps-article-body-line-height: 1.5;
-  --teps-article-body-color: #f03;
-  --teps-article-body-typography: [object Object];
+  --teps-global-font-size-l: 1.618;
+  --teps-global-font-size-ratio: 1.618;
+  --teps-global-font-size-xl: 1.618;
+  --teps-global-font-size-s: 1.618;
+  --teps-global-article-body-paragraph-font-size: 18px;
+  --teps-global-article-body-paragraph-typography: [object Object];
+  --teps-global-article-body-paragraph-color: #00cfff;
+  --teps-global-article-body-heading1-font-size: 29.124000000000002px;
+  --teps-global-article-body-heading-typography: [object Object];
   --teps-body-font-size: 18px;
   --teps-body-line-height: 1.5;
   --teps-body-color: #f03;
@@ -21,4 +26,18 @@
   --teps-color-blue: #00cfff;
   --teps-token-set-order-0: global;
   --teps-token-set-order-1: article;
+  --teps-font-size-l: 29.124000000000002px;
+  --teps-font-size-ratio: 1.618;
+  --teps-font-size-xl: 47.12263200000001px;
+  --teps-font-size-s: 11.124845488257106px;
+  --teps-article-body-paragraph-font-size: 18px;
+  --teps-article-body-paragraph-typography-line-height: 1.5;
+  --teps-article-body-paragraph-typography-font-size: 18px;
+  --teps-article-body-paragraph-typography-letter-spacing: 0;
+  --teps-article-body-paragraph-typography-paragraph-spacing: 3;
+  --teps-article-body-paragraph-color: #00cfff;
+  --teps-article-body-heading1-font-size: 29.124000000000002px;
+  --teps-article-body-heading-typography-font-size: 29.124000000000002px;
+  --teps-article-body-heading-typography-line-height: 1.5;
+  --teps-article-body-heading-typography-paragraph-spacing: 29.124000000000002px;
 }

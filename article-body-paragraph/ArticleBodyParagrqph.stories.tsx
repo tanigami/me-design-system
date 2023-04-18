@@ -1,9 +1,10 @@
 import React from 'react';
 
 import ArticleBodyParagraph from './ArticleBodyParagraph';
-
+import ArticleBodyHeading from '../article-body-heading/ArticleBodyHeading';
 export const story1 = () => (
   <>
+    <ArticleBodyHeading>That was my first heading</ArticleBodyHeading>
     <ArticleBodyParagraph>
       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
       Lorem Ipsum has been the industry's standard dummy text ever since the
