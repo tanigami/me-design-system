@@ -1,0 +1,49 @@
+{
+  "body-font-size": {
+    "value": "18px",
+    "type": "fontSizes"
+  },
+  "body-line-height": {
+    "value": 1.5,
+    "type": "lineHeights"
+  },
+  "body-color": {
+    "value": "#f03",
+    "type": "color"
+  },
+  "body-typography": {
+    "value": {
+      "lineHeight": 1.5,
+      "fontSize": "18px",
+      "letterSpacing": "",
+      "paragraphSpacing": "54px"
+    },
+    "type": "typography"
+  },
+  "font-size-m": {
+    "value": "18px",
+    "type": "fontSizes"
+  },
+  "line-height-m": {
+    "value": 1.5,
+    "type": "lineHeights"
+  },
+  "color-red": {
+    "value": "#f03",
+    "type": "color"
+  },
+  "color-blue": {
+    "value": "#00cfff",
+    "type": "color"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    },
+    "1": {
+      "value": "article",
+      "type": "other"
+    }
+  }
+}
