@@ -3,7 +3,7 @@ import '../tokens/variables.css';
 import './style.css';
 import data from '../sd-input/src/sd-input.json';
 
-const typography = data['body-typography'];
+const typography = data.article.body.paragraph.typography;
 console.log(typography);
 const style = {
   color: data['body-color'].value,
