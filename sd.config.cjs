@@ -9,7 +9,7 @@ module.exports = {
     css: {
       transformGroup: 'css',
       buildPath: 'tokens/',
-      prefix: 'figma',
+      prefix: 'teps',
       files: [
         {
           destination: 'variables.css',
