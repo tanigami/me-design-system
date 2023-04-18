@@ -29,6 +29,12 @@
     "body-color": {
       "value": "{color-red}",
       "type": "color"
+    },
+    "body": {
+      "value": {
+        "lineHeight": "{body.font-size}"
+      },
+      "type": "typography"
     }
   },
   "$themes": [],
