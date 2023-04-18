@@ -12,7 +12,9 @@
    [
     "COMPONENTS",
     [
-     "button"
+     "button",
+     "paragraph",
+     "aaa"
     ]
    ],
    [
@@ -23,5 +25,11 @@
     ]
    ]
   ]
+ },
+ "dependencies": {
+  "autoInstall": false
+ },
+ "doc": {
+  "markdownEngine": "mdjs"
  }
 }
