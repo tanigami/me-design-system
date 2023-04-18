@@ -11,7 +11,7 @@
     "value": "{color-red}",
     "type": "color"
   },
-  "body": {
+  "body-typography": {
     "value": {
       "lineHeight": "{body-line-height}",
       "fontSize": "{body-font-size}"
