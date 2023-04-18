@@ -14,7 +14,9 @@
   "body-typography": {
     "value": {
       "lineHeight": "{body-line-height}",
-      "fontSize": "{body-font-size}"
+      "fontSize": "{body-font-size}",
+      "letterSpacing": "{body-line-height} * 2",
+      "paragraphSpacing": ""
     },
     "type": "typography"
   },
