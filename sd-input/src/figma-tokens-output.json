@@ -31,6 +31,22 @@
     "font-size-s": {
       "value": "{font-size-m} / {font-size-ratio}",
       "type": "fontSizes"
+    },
+    "article": {
+      "body": {
+        "paragraph": {
+          "font-size": {
+            "value": "{font-size-m}",
+            "type": "fontSizes"
+          }
+        },
+        "heading1": {
+          "font-size": {
+            "value": "{font-size-l}",
+            "type": "fontSizes"
+          }
+        }
+      }
     }
   },
   "article": {
@@ -46,14 +62,24 @@
       "value": "{color-red}",
       "type": "color"
     },
-    "body-typography": {
-      "value": {
-        "lineHeight": "{body-line-height}",
-        "fontSize": "{body-font-size}",
-        "letterSpacing": "0",
-        "paragraphSpacing": "{body-font-size} * {body-line-height}"
+    "body": {
+      "paragraph": {
+        "value": {
+          "lineHeight": "{body-line-height}",
+          "fontSize": "{body-font-size}",
+          "letterSpacing": "0",
+          "paragraphSpacing": "{body-font-size} * {body-line-height}"
+        },
+        "type": "typography"
       },
-      "type": "typography"
+      "heading": {
+        "typography": {
+          "value": {
+            "lineHeight": "a"
+          },
+          "type": "typography"
+        }
+      }
     }
   },
   "$themes": [],
