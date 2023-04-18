@@ -1,24 +1,33 @@
 {
   "body-font-size": {
-    "value": "{font-size-m}",
+    "value": "18px",
     "type": "fontSizes"
   },
   "body-line-height": {
-    "value": "{line-height-m}",
+    "value": 1.5,
     "type": "lineHeights"
   },
   "body-color": {
-    "value": "{color-red}",
+    "value": "#f03",
     "type": "color"
   },
   "body-typography": {
-    "value": {
-      "lineHeight": "{body-line-height}",
-      "fontSize": "{body-font-size}",
-      "letterSpacing": "",
-      "paragraphSpacing": "{body-font-size} * {body-line-height} * 2"
+    "lineHeight": {
+      "value": 1.5,
+      "type": "lineHeight"
     },
-    "type": "typography"
+    "fontSize": {
+      "value": "18px",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "27px",
+      "type": "paragraphSpacing"
+    }
   },
   "font-size-m": {
     "value": "18px",
