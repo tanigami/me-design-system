@@ -47,6 +47,10 @@
               "paragraphSpacing": "{line-height-m} * 2"
             },
             "type": "typography"
+          },
+          "color": {
+            "value": "{color-red}}",
+            "type": "color"
           }
         },
         "heading1": {
