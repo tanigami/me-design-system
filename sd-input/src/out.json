@@ -15,8 +15,8 @@
     "value": {
       "lineHeight": 1.5,
       "fontSize": "18px",
-      "letterSpacing": 3,
-      "paragraphSpacing": ""
+      "letterSpacing": "",
+      "paragraphSpacing": 3
     },
     "type": "typography"
   },
