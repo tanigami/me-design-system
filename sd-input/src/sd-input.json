@@ -20,6 +20,15 @@
     },
     "type": "typography"
   },
+  "body-typography-copy": {
+    "value": {
+      "lineHeight": "{body-line-height}",
+      "fontSize": "{body-font-size}",
+      "letterSpacing": "",
+      "paragraphSpacing": "{body-font-size} * {body-line-height} * 2"
+    },
+    "type": "typography"
+  },
   "font-size-m": {
     "value": "18px",
     "type": "fontSizes"
